@@ -1,1 +1,1 @@
-# Deep-reinforcement-learning-portfolio-manegement
+# Deep-reinforcement-learning-portfolio-management
